@@ -3,7 +3,7 @@
 }
 
 variable "instance_type_value" {
-    description = "value for instance_type"              note:here the variables values declarating the providers. its check the 14 line below attached var.]
+    description = "value for instance_type"              (note:here the variables values declarating the providers. its check the 14 line below attached var.)
 }
 
 variable "subnet_id_value" {
